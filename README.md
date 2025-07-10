@@ -35,3 +35,6 @@ Question 8
 
     Write a program to take three numbers and print the largest one using if-elif-else.
 
+Question 9
+
+    Print the first 10 natural numbers using a for loop
