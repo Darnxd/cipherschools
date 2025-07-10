@@ -27,3 +27,7 @@ Question 6
 
     Write a program to check if a given number is divisible by both 3 and 5 but not by 10.
 
+Question 7
+
+    Take a number as input and print if it’s Positive, Negative, or Zero.
+
