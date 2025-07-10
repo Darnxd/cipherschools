@@ -23,3 +23,7 @@ Question 5
 
     Take two numbers as input and print their sum, difference, and product
 
+Question 6
+
+    Write a program to check if a given number is divisible by both 3 and 5 but not by 10.
+
