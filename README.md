@@ -38,3 +38,6 @@ Question 8
 Question 9
 
     Print the first 10 natural numbers using a for loop
+Question 10
+
+    ⁠Take a number n and print its factorial using a for loop.
