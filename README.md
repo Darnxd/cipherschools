@@ -41,3 +41,7 @@ Question 9
 Question 10
 
     ⁠Take a number n and print its factorial using a for loop.
+Question 11
+
+    Write a program to count down from 5 to 1 using a while loop.
+
