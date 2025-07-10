@@ -15,3 +15,7 @@ Question 3
     Take user input for name and age, and print:
     ""Hi [Name], you are [Age] years old.""
 
+Question 4
+
+    Take input for length and breadth, convert to integers, and calculate area and perimeter of a rectangle.
+
