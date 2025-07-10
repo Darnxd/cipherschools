@@ -19,3 +19,7 @@ Question 4
 
     Take input for length and breadth, convert to integers, and calculate area and perimeter of a rectangle.
 
+Question 5
+
+    Take two numbers as input and print their sum, difference, and product
+
