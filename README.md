@@ -49,7 +49,26 @@ Question 12
     Write a program to count down from 5 to 1 using a while loop.
 Question 13
 
-Print numbers from 1 to 10, skipping even numbers using continue.
+    Print numbers from 1 to 10, skipping even numbers using continue.    
+Question 14
 
+    Print numbers from 1 to 30, but break the loop when the number is divisible by both 4 and 7.
+Question 15
 
+    Write a program that prints: "Hello, World!"
+    "Print the following using a single print statement with newline characters:
+    Hello, Python!
+    Let's start coding."
+Question 16
 
+    "Take user input for name and age, and print:
+    ""Hi [Name], you are [Age] years old."""
+    Take input for length and breadth, convert to integers, and calculate area and perimeter of a rectangle.
+Question 17
+
+    Take two numbers as input and print their sum, difference, and product
+    Write a program to check if a given number is divisible by both 3 and 5 but not by 10.
+Question 18
+
+    Take a number as input and print if it’s Positive, Negative, or Zero.
+    Write a program to take three numbers and print the largest one using if-elif-else.
