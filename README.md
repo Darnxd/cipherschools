@@ -47,6 +47,9 @@ Question 11
 Question 12
 
     Write a program to count down from 5 to 1 using a while loop.
+Question 13
+
+Print numbers from 1 to 10, skipping even numbers using continue.
 
 
 
