@@ -55,10 +55,8 @@ Question 14
     Print numbers from 1 to 30, but break the loop when the number is divisible by both 4 and 7.
 Question 15
 
-    Write a program that prints: "Hello, World!"
-    "Print the following using a single print statement with newline characters:
-    Hello, Python!
-    Let's start coding."
+    Write a function greet(name) that prints "Hello, [name]!". Take name from user input and call the function.
+    Write a function calculate_total(price, quantity=1) that uses a default argument. Call it once with both arguments, once with just price.
 Question 16
 
     "Take user input for name and age, and print:
