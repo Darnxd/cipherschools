@@ -70,3 +70,46 @@ Question 18
 
     Take a number as input and print if it’s Positive, Negative, or Zero.
     Write a program to take three numbers and print the largest one using if-elif-else.
+
+# Hospital Management System (Python)
+
+## Project Description
+
+    This is a simple Hospital Management System created using Python. This project helps to manage patient information using a computer. It is useful for storing patient details safely and easily.
+
+    In this project, the user can add new patient details, view all patient records, search for a patient using their ID, and delete patient records if needed. All the patient data is saved in a file, so the data is not lost after closing the program.
+
+## Features
+
+    * Add new patient
+    * View patient details
+    * Search patient by ID
+    * Delete patient record
+    * Save patient data in a file
+
+## Technologies Used
+
+    * Python
+    * File handling
+    * List and Dictionary
+    * Functions and Loops
+
+## Project Files
+
+    * hospital_management.py – main program file
+    * patients.txt – file used to store patient data
+    * README.md – file that explains the project
+
+## How to Run
+
+    1. Install Python
+    2. Open the project folder
+    3. Run hospital_management.py
+    4. Follow the instructions shown on the screen
+
+## Purpose
+
+    The purpose of this project is to learn Python programming and understand how to store and manage data using file handling.
+
+
+
